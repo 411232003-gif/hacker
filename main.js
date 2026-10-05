@@ -1,4 +1,3 @@
-alert("sigit hadi pratama di sini");
 console.log("sigit" + " " + "hadi" + " " + "pratama");
 
 switch ("hadi") {
